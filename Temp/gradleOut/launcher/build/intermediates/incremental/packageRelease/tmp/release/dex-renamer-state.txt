@@ -1,0 +1,4 @@
+#Mon Jul 26 16:24:06 MSK 2021
+base.0=D\:\\Unity_Project\\FatRunner\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
